@@ -2,6 +2,7 @@ import java.util.*;
 public class demoRange{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
+System.out.println("enter the range");
 System.out.println("enter the lower range");
 int l = sc.nextInt();
 System.out.println("enter the upper range");
